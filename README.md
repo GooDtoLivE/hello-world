@@ -1,4 +1,4 @@
-# hello-GitHubGitHub
+# hello-GitHub
 第一次使用Github
 
 
